@@ -1,0 +1,14 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    display: grid;
+}
+
+.container{
+    width: 50%;
+    height: auto;
+    background-color:bisque;
+    margin: 10%;
+    justify-items: center;
+    align-items: center;
+}
